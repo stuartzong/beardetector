@@ -21,7 +21,7 @@ about:
 code: https://github.com/stuartzong/beardetector
 
 sampleImages:
-  - name: variant: real positive
-    url: https://www.mtpr.org/sites/kufm/files/styles/x_large/public/201809/grizzly-bear-02_Istock.jpg
-  - name: variant: false postive
-    url: https://www.ikea.com/PIAimages/0531366_PE647283_S5.JPG?f=s
+  - name: real positive
+    url: https://photos.app.goo.gl/ETkoofCYGJ1nKVLG6
+  - name: false postive
+    url: https://photos.app.goo.gl/aCN1hmo9gGw9A2c3A
