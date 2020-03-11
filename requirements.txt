@@ -1,7 +1,7 @@
 torch==1.0.0
 torchvision==0.2.1
 #torchvision==0.5.0
-pillow==5.4.1
+pillow==6.2.0
 Flask==1.0.2
 fastai==1.0.55
 
