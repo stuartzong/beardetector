@@ -1,5 +1,5 @@
-title: bear classifier
-description: Classify grizzly, black, and teddy bears using deep learning
+title: igvReader variant classifier
+description: Classify SNVs as positive or negative using deep learning 
 about:
   This is a bear Images Classifier using Deep Learning built on top of Pytorch.
 
@@ -21,9 +21,7 @@ about:
 code: https://github.com/stuartzong/beardetector
 
 sampleImages:
-  - name: grizzly bear
+  - name: variant: real positive
     url: https://www.mtpr.org/sites/kufm/files/styles/x_large/public/201809/grizzly-bear-02_Istock.jpg
-  - name: teddy bear
+  - name: variant: false postive
     url: https://www.ikea.com/PIAimages/0531366_PE647283_S5.JPG?f=s
-  - name: black bear
-    url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgBCvl2mEEjkxbEPWqhd1P37pF6_lCmryjk8s-0RmpMHzB8n4q-A&s
