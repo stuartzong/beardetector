@@ -1,1 +1,1 @@
-['teddys','grizzly','black']
+['positive','negative']
