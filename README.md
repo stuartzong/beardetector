@@ -22,7 +22,7 @@ The following were used for model **deployment**:
 
 ## Demo
 
-![Demo](static/images/chr7_32,912,815_32,913,115.png)
+![Demo](src/static/images/chr7_32,912,815_32,913,115.png)
 
 
  
