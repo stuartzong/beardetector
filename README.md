@@ -16,14 +16,13 @@ The following were used for model **deployment**:
  
 
 ## Table of Contents
-1.  [Training the Model](docs/1_training.md) using fastai:  [food classifier notebook](https://github.com/npatta01/food-classifier/blob/master/notebooks/1_train.ipynb)
-2.  [Deploying the App on Heroku](docs/2_heroku_app.md):  our web app is [**food-img-classifier.herokuapp.com**](https://food-img-classifier.herokuapp.com)
-3.  Deploying a Mobile App, see this repo:  [npatta01/mobile-deep-learning-classifier](https://github.com/npatta01/mobile-deep-learning-classifier)
+1.  [Training the Model](docs/1_training.md) using fastai:  [igvReader notebook](https://github.com/stuartzong/deepreview)
+2.  [Deploying the App on Heroku](docs/2_heroku_app.md):  our web app is [**igvReader.herokuapp.com**](https://igvReader.herokuapp.com)
 
 
 ## Demo
 
-![Demo](assets/demo.gif)
+![Demo](static/images/chr7_32,912,815_32,913,115.png)
 
 
  
