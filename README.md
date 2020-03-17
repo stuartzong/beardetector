@@ -1,5 +1,4 @@
-# Training a mutation classifier & Creating a Web App
-## igvReader: classify a IGV screenshot to be positive or negative for a variant  
+# igvReader: classify a IGV screenshot to be positive or negative for a variant  
 ## Description
 this is a CNN model to automatically review gene mutation variants. It is pretty much still a work in progress since I did not get a chance to generate enough training images to get the model fully trained. However, all the components needed to train the model have been developed. The model trained with just a few thousand images have an accuracy > 98% for test data set. This demonstrate the model can be very useful when it is fully trained with enough edge cases.
 
