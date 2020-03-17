@@ -29,6 +29,7 @@ It is not clear if it will works well on RNA bams. It is trained on genome bam o
  
 ## Demo Image
 ![Demo](src/static/images/chr7_32,912,815_32,913,115.png)
+![Demo](src/static/images/chr1_7,196,997_7,197,297.png)
 
 
 ## Citation:
