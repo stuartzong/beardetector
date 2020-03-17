@@ -15,7 +15,6 @@ The model was trained on GeForce GTX TITAN GPU.
 The [GIAB](https://www.nist.gov/programs-projects/genome-bottle) data was used to generate 4000 positive and negative igv screenshots.  Thus, each class had about 4000 images.
 
 ## Training the data:  Resnet-34 CNN
-
-epoch	train_loss	valid_loss	accuracy	time
-0	0.020749	0.023093	0.994072	01:34
-1	0.015178	0.021274	0.994072	01:34
+|epoch	|train_loss	|valid_loss	|accuracy	|time|
+0	0.020749	0.023093	0.994072	1:34
+1	0.015178	0.021274	0.994072	1:34
