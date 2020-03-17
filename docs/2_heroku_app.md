@@ -8,7 +8,7 @@ This output file, **`model.pth`** is the input to the Heroku app.
 
  
 ### Test running the web app
-This [Docker image](https://github.com/npatta01/web-deep-learning-classifier/blob/master/Dockerfile) contains Python 3, Flask and fastai.
+This [Docker image](https://github.com/stuartzong/igvReader/blob/master/Dockerfile) contains Python 3, Flask and fastai.
 ```
 docker build -t app .
 docker run -p 5000:5000 -it app 
@@ -34,6 +34,6 @@ heroku logs --tail --app ${APP_NAME}
 Note:  After 15 minutes of inactivity, Heroku will suspend the app.  The next time the web app is called, Heroku will restart the app.  There could be a slight delay in starting the app.
  
 ## Our Flask Web Application
-- Our Flask web app is available here:  [**food-img-classifier.herokuapp.com**](https://food-img-classifier.herokuapp.com)
+- Our Flask web app is available here:  [**igvreader.herokuapp.com**](http://igvreader.herokuapp.com/)
 - Give it a try!  Upload an image or add a URL. 
 
