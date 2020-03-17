@@ -1,4 +1,4 @@
-# igvReader: classify a IGV screenshot to be positive or negative for a variant  
+# igvReader: classify mutations as real or false positive
 ## Description
 this is a CNN model to automatically review gene mutation variants. It is pretty much still a work in progress since I did not get a chance to generate enough training images to get the model fully trained. However, all the components needed to train the model have been developed. The model trained with just a few thousand images have an accuracy > 98% for test data set. This demonstrate the model can be very useful when it is fully trained with enough edge cases.
 
@@ -22,24 +22,14 @@ It is not clear if it will works well on RNA bams. It is trained on genome bam o
 - Python:  version 3.6
 - [igvReader notebook](https://github.com/stuartzong/deepreview)
 
-## Model **deployment**:    
+## Model Deployment:    
 - Heroku
 - Flask:  version 1.0
 - web app is [**igvReader.herokuapp.com**](https://igvReader.herokuapp.com)
  
-## Demo image
+## Demo Image
 ![Demo](src/static/images/chr7_32,912,815_32,913,115.png)
 
 
 ## Citation:
 Pattaniyil, Nidhin and Shaikh, Reshama, [Deploying Deep Learning Models On Web And Mobile](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/), 2019
-
- 
-
-
- 
-
- 
- 
- 
-
